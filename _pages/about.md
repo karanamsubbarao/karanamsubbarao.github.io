@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Product Evangelist | Product Owner  | Architect | Hands on Developer| Mentor | Teacher</a>
 
 profile:
   align: right
