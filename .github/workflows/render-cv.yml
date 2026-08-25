@@ -4,6 +4,9 @@ on:
     branches:
       - main
       - master
+  env:
+    ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+    
     paths:
       - "_data/cv.yml"
       - "assets/rendercv/design.yaml"

@@ -6,7 +6,7 @@ on:
       - master
       - main
   env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     paths:
       - "assets/**"
       - "**.bib"
@@ -82,7 +82,7 @@ jobs:
       - name: Setup Node 🧰
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "npm"
       - name: Install JS deps 📦
         run: npm ci
