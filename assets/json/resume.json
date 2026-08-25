@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "image": "",
     "email": "karanamsubbarao@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "9880124064",
     "summary": "Software Engineer Summary",
     "location": {
       "address": "2712 Broadway St",
@@ -35,27 +35,72 @@
       "highlights": ["Description 1.", "Description 2."]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
+      "name": "Xebia IT Architects",
+      "position": "Director Big Data",
+      "location": "Bengaluru Karnataka India",
       "startDate": "1917-01-01",
       "endDate": "1933-01-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
+      "name": "Goldman Sachs Services India Pvt Ltd ",
+      "position": "Technical Specialist",
+      "location": "Bengaluru Karnataka India",
       "startDate": "1911-01-01",
       "endDate": "1917-01-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
+      "name": "Agilent Technologies",
+      "position": "Technology Lead ",
+      "location": "Bengaluru Karnataka India",
+      "startDate": "1909-01-01",
+      "endDate": "1911-01-01",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Wyse Technology (Acquired by Dell) ",
+      "position": "Technology Lead ",
+      "location": "Bengaluru Karnataka India",
+      "startDate": "1909-01-01",
+      "endDate": "1911-01-01",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Kuberre Systems ",
+      "position": "Software Engineer ",
+      "location": "Andover MA USA",
+      "startDate": "1909-01-01",
+      "endDate": "1911-01-01",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Narad Networks  ",
+      "position": "Software Engineer ",
+      "location": "Andover MA USA",
+      "startDate": "1909-01-01",
+      "endDate": "1911-01-01",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Lucent Technologies   ",
+      "position": "Software Engineer ",
+      "location": "Westford MA USA",
+      "startDate": "1909-01-01",
+      "endDate": "1911-01-01",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Rothwell Systems/HCL Perot Systems   ",
+      "position": "Software Engineer ",
+      "location": "Bengaluru Karnataka India",
       "startDate": "1909-01-01",
       "endDate": "1911-01-01",
       "summary": "",
