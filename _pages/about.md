@@ -27,7 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Innovative and results-driven technology leader with 25 years of experience building products and platforms,
+from garage-based startups to large enterprises. Expertise in developing scalable data platforms using
+cloud-native technologies, Big Data, and microservices. A proven track record of bootstrapping platforms
+and teams, having been the first member of three successful teams.
+
+Strong foundation in data pipelines, machine learning models, deep learning methods, probability theory, LLM and statistical analysis, complemented by training from Indian Statistical Institute and Indian Institute of Science Bangalore, Adept at designing and executing cutting-edge data solutions that drive business growth and operational excellence and create impact 
+
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
