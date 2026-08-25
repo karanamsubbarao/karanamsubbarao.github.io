@@ -7,7 +7,7 @@
     "phone": "9880124064",
     "summary": "Software Engineer Summary",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "Konanakunte",
       "postalCode": "560062",
       "city": "Bengaluru",
       "countryCode": "India",
@@ -109,17 +109,6 @@
       "score": "",
       "courses": ["Theory of Relativity"],
       "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
     }
   ],
   "awards": [
@@ -129,13 +118,8 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
     }
+    
   ],
   "certificates": [
     {
