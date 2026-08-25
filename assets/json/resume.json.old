@@ -169,5 +169,28 @@
       "fluency": "Fluent",
       "icon": ""
     }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "icon": "",
+      "keywords": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "icon": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "summary": "",
+      "highlights": "",
+      "startDate": "",
+      "endDate": ""
+    }
   ]
 }
