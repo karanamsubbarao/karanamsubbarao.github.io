@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Karanam Subbarao",
+    "label": "Software Engineer",
     "image": "",
-    "email": "einstein@example.com",
+    "email": "karanamsubbarao@gmail.com",
     "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Software Engineer Summary",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "560062",
+      "city": "Bengaluru",
+      "countryCode": "India",
+      "region": "Karnataka"
     },
     "profiles": []
   },
