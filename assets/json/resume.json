@@ -54,7 +54,9 @@
       "startDate": "2007-10-01",
       "endDate": "2009-10-30",
       "summary": "",
-      "highlights": []
+      "highlights": ["Conceptualized, designed, and developed a 45-day training course for campus recruits, enhancing
+onboarding and skill development","Introduced ThoughtWorks Mingle as an Agile Project Management Tool, streamlining project tracking and collaboration","Filed the first Invention Disclosure from Agilent’s Bangalore center for measuring voice and data in-call
+parameters, contributing to technological innovation"]
     },
 	{
       "name": "Wyse Technology (Acquired by Dell) Bengaluru Karnataka India ",
@@ -62,15 +64,15 @@
       "startDate": "2005-08-01",
       "endDate": "2007-07-30",
       "summary": "",
-      "highlights": []
+      "highlights": "Product Development for Device management solution for thin clients"
     },
 	{
       "name": "Kuberre Systems Andover MA USA",
       "position": "Software Engineer ",
       "startDate": "2003-04-01",
       "endDate": "2005-04-30",
-      "summary": "Product Development for VIDE which is IDE for Factset Vision",
-      "highlights": ""
+      "summary": "",
+      "highlights": "Product Development for VIDE which is IDE for Factset Vision"
 
     },
 	{
@@ -79,7 +81,7 @@
       "startDate": "2001-04-01",
       "endDate": "2003-03-30",
       "summary": "",
-      "highlights": "Network Management and Service management Solution for Cable and broadband HFC networks"
+      "highlights": "Development of Network Management and Service management Solution for Cable and broadband HFC networks"
     },
 	{
       "name": "Lucent Technologies Westford MA USA ",
@@ -87,7 +89,7 @@
       "startDate": "1999-12-01",
       "endDate": "2001-03-31",
       "summary": "",
-      "highlights": "Network Management and Service management Solution for ATM and Frame relay switches "
+      "highlights": "Development of Network Management and Service management Solution for ATM and Frame relay switches "
     },
 	{
       "name": "Rothwell Systems/HCL Perot Systems Bengaluru Karnataka India",
