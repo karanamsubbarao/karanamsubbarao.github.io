@@ -75,18 +75,18 @@
 	{
       "name": "Narad Networks  Andover MA USA",
       "position": "Software Engineer ",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "startDate": "2001-04-01",
+      "endDate": "2003-03-30",
       "summary": "",
       "highlights": []
     },
 	{
       "name": "Lucent Technologies Westford MA USA ",
       "position": "Software Engineer ",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "startDate": "1999-12-01",
+      "endDate": "2001-03-31",
+      "summary": "Network Management and Service management Solution for ATM and Frame relay switches ",
+      "highlights": "Network Management and Service management Solution for ATM and Frame relay switches "
     },
 	{
       "name": "Rothwell Systems/HCL Perot Systems Bengaluru Karnataka India",
@@ -94,7 +94,7 @@
       "startDate": "1996-01-01",
       "endDate": "1999-12-01",
       "summary": "Smalltalk Consulting and custom software development for customers in US, UK, japan",
-      "highlights": []
+      "highlights": "Smalltalk Consulting and custom software development for customers in US, UK, japan"
     }
   ],
   "education": [
