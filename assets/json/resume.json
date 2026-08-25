@@ -19,7 +19,6 @@
     {
       "name": "JP Morgan Services India Bengaluru Karnataka India",
       "position": "Executive Director",
-	  "location": "",
       "startDate": "2016",
       "endDate": "2024",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -28,7 +27,6 @@
     {
       "name": "JP Morgan Services India Bengaluru Karnataka India",
       "position": "Vice President",
-	  "location": "",
       "startDate": "1933-01-01",
       "endDate": "1933-01-01",
       "summary": "",
@@ -112,7 +110,7 @@
       "institution": "Sri KrishnaDevaraya University Anantapur Andhra Pradesh",
       "location": "Anantapur Andhra Pradesh",
       "url": "https://www.uzh.ch/",
-      "area": "Electronics and Communication Engineering",
+      "area": "Electronics and Comm",
       "studyType": "PhD",
       "startDate": "1900-01-01",
       "endDate": "1905-01-01",
@@ -120,6 +118,17 @@
       "courses": ["Theory of Relativity"],
       "highlights": ["Description 1.", "Description 2."]
     },
+    {
+      "institution": "Eidgenössische Technische Hochschule",
+      "location": "Zurich, Switzerland",
+      "area": "Physics",
+      "studyType": "Federal teaching diploma",
+      "startDate": "1896-01-01",
+      "endDate": "1900-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": ["Description 1.", "Description 2."]
+    }
   ],
   "awards": [
     {
