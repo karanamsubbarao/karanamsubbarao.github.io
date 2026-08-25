@@ -19,48 +19,48 @@
     {
       "name": "JP Morgan Services India Bengaluru Karnataka India",
       "position": "Executive Director",
-      "startDate": "2016",
-      "endDate": "2024",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2020-02-01",
+      "endDate": "2024-05-30",
+      "summary": "",
       "highlights": ["Relativity", "Description 2."]
     },
     {
       "name": "JP Morgan Services India Bengaluru Karnataka India",
       "position": "Vice President",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "startDate": "2016-06-01",
+      "endDate": "2020-01-31",
       "summary": "",
       "highlights": ["Description 1.", "Description 2."]
     },
     {
       "name": "Xebia IT Architects Bengaluru Karnataka India",
       "position": "Director Big Data",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "startDate": "2015-04-01",
+      "endDate": "2016-05-30",
       "summary": "",
       "highlights": []
     },
     {
       "name": "Goldman Sachs Services India Pvt Ltd Bengaluru Karnataka India ",
       "position": "Technical Specialist",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "startDate": "2009-12-01",
+      "endDate": "2015-03-30",
       "summary": "",
       "highlights": []
     },
     {
       "name": "Agilent Technologies Bengaluru Karnataka India",
       "position": "Technology Lead ",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "startDate": "2007-10-01",
+      "endDate": "2009-10-30",
       "summary": "",
       "highlights": []
     },
 	{
       "name": "Wyse Technology (Acquired by Dell) Bengaluru Karnataka India ",
       "position": "Technology Lead ",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "startDate": "2005-08-01",
+      "endDate": "2007-07-30",
       "summary": "",
       "highlights": []
     },
@@ -70,7 +70,9 @@
       "startDate": "1909-01-01",
       "endDate": "1911-01-01",
       "summary": "",
-      "highlights": []
+      "highlights": "Product Development for VIDE which is IDE for Factset Vision 
+					 Developed a Portal for Investment professionals"
+
     },
 	{
       "name": "Narad Networks  Andover MA USA",
@@ -78,14 +80,14 @@
       "startDate": "2001-04-01",
       "endDate": "2003-03-30",
       "summary": "",
-      "highlights": []
+      "highlights": "Network Management and Service management Solution for Cable and broadband HFC networks"
     },
 	{
       "name": "Lucent Technologies Westford MA USA ",
       "position": "Software Engineer ",
       "startDate": "1999-12-01",
       "endDate": "2001-03-31",
-      "summary": "Network Management and Service management Solution for ATM and Frame relay switches ",
+      "summary": "",
       "highlights": "Network Management and Service management Solution for ATM and Frame relay switches "
     },
 	{
@@ -93,7 +95,7 @@
       "position": "Software Engineer ",
       "startDate": "1996-01-01",
       "endDate": "1999-12-01",
-      "summary": "Smalltalk Consulting and custom software development for customers in US, UK, japan",
+      "summary": "",
       "highlights": "Smalltalk Consulting and custom software development for customers in US, UK, japan"
     }
   ],
