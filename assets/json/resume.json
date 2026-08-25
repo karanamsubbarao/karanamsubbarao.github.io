@@ -150,9 +150,7 @@
       "name": "Java",
       "level": "Master",
       "icon": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": ""
     }
   ],
   "languages": [
@@ -167,7 +165,7 @@
       "icon": ""
     },
 	{
-      "language": "Telugu",
+      "language": "English",
       "fluency": "Fluent",
       "icon": ""
     }
@@ -176,9 +174,7 @@
     {
       "name": "",
       "icon": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": ""
     }
   ],
   "references": [
@@ -192,7 +188,7 @@
     {
       "name": "",
       "summary": "",
-      "highlights": ["", ""],
+      "highlights": ""
       "startDate": "",
       "endDate": ""
     }
