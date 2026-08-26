@@ -5,6 +5,5 @@ description: Data Retention and Destruction Services Platform is self-serviceabl
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
