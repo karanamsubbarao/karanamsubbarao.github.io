@@ -22,7 +22,8 @@
       "startDate": "2020-02-01",
       "endDate": "2024-05-30",
       "summary": "",
-      "highlights": ["Relativity", "Description 2."]
+      "highlights": ["Data Retention and Destruction Service is self-serviceable Platform for Applications to archive cold data from RDBMS, NFS, HDFS to On Premises S3/AWS S3 for on premises applications. Data Retention and Destruction Service was adopted firmwide as the centralized Archive Platform under the Centralized Record Management Program (CRMP), generating $15 million in cost savings over three years.", 
+	  "Data Migration Service is Federated Service to migrate the data from on premises to AWS for migrating data for Enterprise Applications in JPMorgan leveraging latest technologies such as Spring boot, Apache Spark "]
     },
     {
       "name": "JP Morgan Services India Bengaluru Karnataka India",
@@ -30,7 +31,7 @@
       "startDate": "2016-06-01",
       "endDate": "2020-01-31",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Data Services Platform is Data Distribution Platform with the aim of creating Data Market Place for Publishers and Consumers. Data distribution was also helping to solve Data lineage"]
     },
     {
       "name": "Xebia IT Architects Bengaluru Karnataka India",
@@ -38,8 +39,8 @@
       "startDate": "2015-04-01",
       "endDate": "2016-05-30",
       "summary": "",
+Impala, and Statistical Modeling for Large Datasets"]
       "highlights": ["Cloudera Certified Instructor for Big Data technologies, specializing in Apache Spark, Hadoop, Pig, Hive,
-Impala, and Statistical Modeling for Large Datasets"\
     },
     {
       "name": "Goldman Sachs Services India Pvt Ltd Bengaluru Karnataka India ",
