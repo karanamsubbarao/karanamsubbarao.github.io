@@ -5,5 +5,5 @@ description: Data Migration Service enables application teams to migrate the dat
 img: assets/img/7.jpg
 redirect: 
 importance: 3
-category: work
+category: Data Engineering
 ---
