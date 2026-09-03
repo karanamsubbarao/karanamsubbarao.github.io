@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Generative-AI-Learning
-description: Generative-AI-Learning Notebooks
-img: assets/img/generative-ai.png
+title: Classic-Machine-Learning
+description: Classic Machine-Learning Notebooks
+img: assets/img/Classic-machine-learning.png
 category: Machine Learning
 ---
 
