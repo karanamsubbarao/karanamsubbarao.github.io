@@ -5,7 +5,7 @@ permalink: /projects/
 description: Portfolio of Platforms, Services and Pet Projects.
 nav: true
 nav_order: 3
-display_categories: [Machine Learning, Data Engineering,Enterprise Software Platforms]
+display_categories: [Machine Learning, Deep Learning,Data Engineering,Enterprise Software Platforms]
 horizontal: false
 ---
 
